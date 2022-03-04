@@ -1,0 +1,13 @@
+Container-based Virtualization provides a different level of
+abstraction in terms of virtualization and isolation when
+compared with hypervisors. In particular, it can be considered as a lightweight
+alternative to hypervisor-based virtualization.
+Hypervisors abstract hardware, which results in overhead in
+terms of virtualizing hardware and virtual device drivers. A full
+operating system (e.g., Linux) is typically run on top of this virtualized hardware
+in each virtual machine instance. In
+contrast, containers implement isolation of processes at the
+operating system level, thus avoiding such overhead. These
+containers run on top of the same shared operating system
+kernel of the underlying host machine, and one or more
+processes can be run within each container.

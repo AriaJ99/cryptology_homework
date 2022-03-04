@@ -1,0 +1,10 @@
+Today, Internet service providers (ISPs) try to deliver more and more valueadded services integrated with their residential Internet access offer, such as triple-play
+(voice, Internet, and video). This situation generates the need for more powerful and
+expensive home devices to cover these needs. This device receives different names,
+from customer premise equipment (CPE) to residential router and to home gateway
+(HGW), but all have a common ground: the trade-off between low-cost and rich
+functionalities, with a potentially negative effect on the device security. As a result,
+vHGW was one of the first scenarios that were adopted within the NFV paradigm, to
+demonstrate its potential in terms of efficiency and security. In this chapter, we are
+going to describe the NFV architecture that Telefonica designed and implemented in a
+commercial trial, to evaluate its potentiality.
